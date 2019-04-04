@@ -10,6 +10,8 @@ permalink: /
 
 En construction!
 
+{: .fs-9 }
+
 Tu viens de commencer ton parcours scientifique à l'UQAM, tu te demandes quelle est la prochaine étape ou tu appliques sur des bourses/écoles? Ce guide est pour toi. {: .fs-6 .fw-300 }
 
 ## Où débuter?
@@ -17,7 +19,7 @@ Tu viens de commencer ton parcours scientifique à l'UQAM, tu te demandes quelle
  - **Choisis ton cap.** Trouve les [projets, les bourses et les opportunités de stages]() qui t'intéressent. 
  - **Lève les voiles.** Travaille à [bonifier ton CV](), puis [applique]() et [applique partout](). Tu as droit à l'erreur, alors profites-en!
  
- ## Appliquer sur les bourses de recherche et aux cycles supérieurs
+## Appliquer sur les bourses de recherche et aux cycles supérieurs
 
 Jette un coup d'oeil à nos [exemples d'applications]() aux bourses de recherche du CRSNG et FRQNT, ayant rapporté des **centaines de milliers de dollars** en bourses à des étudiant-es du département au cours des denières années.
   
