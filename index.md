@@ -10,9 +10,7 @@ permalink: /
 
 En construction!
 
-{: .fs-9 }
-
-Tu viens de commencer ton parcours scientifique à l'UQAM, tu te demandes quelle est la prochaine étape ou tu appliques sur des bourses/écoles? Ce guide est pour toi. {: .fs-6 .fw-300 }
+Tu viens de commencer ton parcours scientifique à l'UQAM, tu te demandes quelle est la prochaine étape ou tu appliques sur des bourses/écoles? Ce guide est pour toi.
 
 ## Où débuter?
  - **Repère-toi.** Identifie les [ressources d'aide]() à ta disposition et [écris à tes professeurs]() pour demander conseil.
