@@ -9,14 +9,12 @@ nav_order: 1
 
 ## Bourse de recherche de premier cycle du CRSNG
 
-
 | Lettre de motivation |
 |:----------:|
-| Anthony |
-| Olivier |
+| [Anthony](../documents/Anthony/BRPC CRSNG - Ete2017/lettre motivation.pdf) |
 
 ## Stage du scad
 
 | Lettre de motivation |
 |:----------:|
-| Anthony |
+| [Anthony](../documents/Anthony/Stage SCAD - Ete2017/lettre motivation.pdf) |
