@@ -6,9 +6,9 @@ description: ""
 permalink: /
 ---
 
-# :notebook: Le Guide des bourses
+# Le Guide des bourses
 
-En construction!
+En construction.
 
 Tu viens de commencer ton parcours scientifique à l'UQAM, tu te demandes quelle est la prochaine étape ou tu appliques sur des bourses/écoles? Ce guide est pour toi.
 
