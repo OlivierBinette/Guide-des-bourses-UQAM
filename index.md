@@ -14,13 +14,13 @@ Tu viens de commencer ton parcours scientifique à l'UQAM, tu te demandes quelle
 
 ## Où débuter?
  1. **Repère-toi.** Identifie les [ressources d'aide]() à ta disposition et [écris à tes professeurs]() pour demander conseil.
- 2. **Choisis ton cap.** Trouve les [projets, les bourses et les opportunités de stages]() qui t'intéressent. 
+ 2. **Choisis ton cap.** Trouve les [projets, les bourses et les opportunités de stages]() qui t'intéressent.
  3. **Lève les voiles.** Travaille à [bonifier ton CV](), puis [applique]() et [applique partout](). Tu as droit à l'erreur, alors profites-en!
- 
+
 ## Appliquer sur les bourses de recherche et aux cycles supérieurs
 
 Jette un coup d'oeil à nos [exemples d'applications]() aux bourses de recherche du CRSNG et FRQNT, ayant rapporté des **centaines de milliers de dollars** en bourses à des étudiant-es du département au cours des denières années.
-  
+
 On a aussi des admis au département de statistique de l'Université de Toronto, à l'Université McGill, à Stanford University, Duke University, etc. Va voir nos [curriculum vitaes et lettres de motivation]().
 
 Tu souhaites aller étudier aux États-Unis? Il te faudra [tout savoir sur les examens GRE et TOEFL]().
