@@ -35,7 +35,7 @@ On a regroupé les dossiers d'application de certain-es étudiant-es pour que tu
 
 #### Maîtrise
 
- - Exemples // [Bourse de maîtrise en recherche (CRSNG)](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_fra.asp).
+ - [Exemples](/bourses_recherche/cycles_sups.html#bourse-de-maîtrise-en-recherche-crsng) // [Bourse de maîtrise en recherche (CRSNG)](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_fra.asp).
  - Exemples // [Bourse de maîtrise en recherche (FRQNT)](http://www.frqnt.gouv.qc.ca/fr/bourses-et-subventions/concours-anterieurs/bourse/bourses-de-2supesup-et-3supesup-cycles-9hnncxo71406124185503).
 
 :bulb: La bourse de maîtrise du CRSNG peut être combinée à la bourse du FRQNT pour obtenir du financement pendant 2 ans (> 15 000$ / ans).

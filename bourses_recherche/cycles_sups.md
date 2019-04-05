@@ -3,9 +3,10 @@ layout: default
 title: Aux cycles supérieurs
 parent: bourses_recherche
 nav_order: 2
+
 ---
 
-# Dossiers d'application aux cycles supérieurs
+# Dossiers d'application - cycles supérieurs
 
 ## Bourse doctorale en recherche ES D / BESC D (CRSNG)
 
@@ -21,7 +22,6 @@ nav_order: 2
 |:----------:|:----------:|:----------:|:----------:|:----------:|:----------:|
 | [Anthony](../documents/Anthony/Bourse Doctorat FRQNT/FRQNT_projet.pdf) | [Anthony](../documents/Anthony/Bourse Doctorat FRQNT/FRQNT_experience.pdf) | [Anthony](../documents/Anthony/Bourse Doctorat FRQNT/FRQNT_interet_recherche.pdf) |  [Anthony](../documents/Anthony/Bourse Doctorat FRQNT/FRQNT_implication.pdf) | [Anthony](../documents/Anthony/Bourse Doctorat FRQNT/FRQNT_bourse.pdf) | [Anthony](../documents/Anthony/Bourse Doctorat FRQNT/FRQNT_GrandPublic.pdf) |
 | [Olivier](../documents/Olivier/Bourse FRQNT doctorat/Description du projet.pdf) | [Olivier](../documents/Olivier/Bourse FRQNT doctorat/Expériences et réalisations.pdf) | | | | |
-
 
 ## Bourse de maîtrise en recherche (CRSNG)
 
