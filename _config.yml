@@ -3,5 +3,12 @@ description: Soutien au développement professionnel à l'UQÀM.
 
 remote_theme: olivierbinette/just-the-docs
 
+search_enabled: true
+
+# Aux links for the upper right navigation
+aux_links:
+  "Olivier Binette":
+    - "http://olivierbinette.ca"
+
 plugins:
   - jemoji

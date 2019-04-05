@@ -3,6 +3,8 @@ layout: default
 title: Bourses de recherche
 nav_order: 3
 description: ""
+permalink: "/bourses_recherche"
+has_children: true
 ---
 
 # Bourses de recherche
