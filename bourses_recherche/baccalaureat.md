@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Au baccalauréat
-parent: bourses_recherche
+parent: Bourses de recherche
 nav_order: 1
 ---
 

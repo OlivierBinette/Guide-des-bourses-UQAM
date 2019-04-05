@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Aux cycles supérieurs
-parent: bourses_recherche
+parent: Bourses de recherche
 nav_order: 2
 
 ---
