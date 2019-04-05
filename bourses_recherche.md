@@ -19,7 +19,7 @@ Pour un projet de recherche d'été ou aux cycles supérieurs, tu peux être fin
 
 Ce ne sont pas les opportunités qui manquent, et tu devrais aussi chercher pour des expériences de formation en dehors des universités montréalaises (par exemple au [Fields Institute](http://www.fields.utoronto.ca/activities/19-20/2019-fusrp), dans un [centre de recherche collégial](http://reseautranstech.qc.ca/cctt-par-nom/), en entreprise, etc). Trouve ce qui te passionne, demande conseil et puis applique!
 
-## Exemple de dossiers d'application
+## :mag: Exemple de dossiers d'application
 
 On a regroupé les dossiers d'application de certain-es étudiant-es pour que tu puisse consulter nos **lettres de motivation**, nos **projets de recherche** et **curriculum vitae**.
 
