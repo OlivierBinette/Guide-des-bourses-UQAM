@@ -5,7 +5,7 @@ parent: bourses_recherche
 nav_order: 1
 ---
 
-# Dossiers d'application - niveau baccalauréat
+# Dossiers d'application niveau baccalauréat
 
 ## Bourse de recherche de premier cycle du CRSNG
 
@@ -14,3 +14,9 @@ nav_order: 1
 |:----------:|
 | Anthony |
 | Olivier |
+
+## Stage du scad
+
+| Lettre de motivation |
+|:----------:|
+| Anthony |
