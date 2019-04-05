@@ -3,7 +3,7 @@ layout: default
 title: Bourses de recherche
 nav_order: 3
 description: ""
-permalink: "/bourses_recherche"
+permalink: "bourses_recherche"
 has_children: true
 has_toc: false
 ---
@@ -33,14 +33,14 @@ On a regroupé les dossiers d'application de certain-es étudiant-es pour que tu
 
 ### Pour les cycles supérieurs
 
-##### Maîtrise
+**Maîtrise**
 
  - [Exemples](/Guide-des-bourses-UQAM/bourses_recherche/cycles_sups.html#bourse-de-maîtrise-en-recherche-crsng) // [Bourse de maîtrise en recherche (CRSNG)](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_fra.asp).
  - [Exemples](/Guide-des-bourses-UQAM/bourses_recherche/cycles_sups.html#bourse-de-maîtrise-en-recherche-frqnt) // [Bourse de maîtrise en recherche (FRQNT)](http://www.frqnt.gouv.qc.ca/fr/bourses-et-subventions/concours-anterieurs/bourse/bourses-de-2supesup-et-3supesup-cycles-9hnncxo71406124185503).
 
 :bulb: La bourse de maîtrise du CRSNG peut être combinée à la bourse du FRQNT pour obtenir du financement pendant 2 ans (> 15 000$ / ans).
 
-##### Doctorat
+**Doctorat**
 
  - [Exemples](/Guide-des-bourses-UQAM/bourses_recherche/cycles_sups.html#bourse-doctorale-en-recherche-crsng) // [Bourse doctorale ES D / BESC D (CRSNG)](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_fra.asp).
  - [Exemples](/Guide-des-bourses-UQAM/bourses_recherche/cycles_sups.html#bourse-doctorale-en-recherche-frqnt) // [Bourse doctorale du FRQNT]((http://www.frqnt.gouv.qc.ca/fr/bourses-et-subventions/concours-anterieurs/bourse/bourses-de-2supesup-et-3supesup-cycles-9hnncxo71406124185503)).
