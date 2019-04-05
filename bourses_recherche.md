@@ -5,6 +5,7 @@ nav_order: 3
 description: ""
 permalink: "/bourses_recherche"
 has_children: true
+has_toc: false
 ---
 
 # Bourses de recherche
