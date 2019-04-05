@@ -2,3 +2,6 @@ title: Guide des bourses
 description: Soutien au développement professionnel à l'UQÀM.
 
 remote_theme: olivierbinette/just-the-docs
+
+plugins:
+  - jemoji
