@@ -8,7 +8,7 @@ nav_order: 2
 
 # Dossiers d'application - cycles supérieurs
 
-## Bourse doctorale en recherche ES D / BESC D (CRSNG)
+## Bourse doctorale en recherche (CRSNG)
 
 | Projet | Contributions | Résumé du mémoire |
 |:----------:|:----------:|:----------:|

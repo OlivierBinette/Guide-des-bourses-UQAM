@@ -26,8 +26,8 @@ On a regroupé les dossiers d'application de certain-es étudiant-es pour que tu
 
 ### Au baccalauréat
 
-- [Exemples]() // [Bourse de recherche de premier cycle du CRSNG](http://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_fra.asp) et [supplément du FRQNT](http://www.frqnt.gouv.qc.ca/fr/bourses-et-subventions/concours-anterieurs/bourse/supplements-aux-bourses-de-1er-cycle-en-milieu-academique-du-crsng-bpca--kt4i0gxl1453739737341) à cette bourse.
-- Exemples // [Stage au Service de consultation en analyse de données de l'UQÀM](https://scad.uqam.ca/stages.html).
+- [Exemples](/Guide-des-bourses-UQAM/bourses_recherche/baccalaureat.html#bourse-de-recherche-de-premier-cycle-du-crsng) // [Bourse de recherche de premier cycle du CRSNG](http://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_fra.asp) et [supplément du FRQNT](http://www.frqnt.gouv.qc.ca/fr/bourses-et-subventions/concours-anterieurs/bourse/supplements-aux-bourses-de-1er-cycle-en-milieu-academique-du-crsng-bpca--kt4i0gxl1453739737341) à cette bourse.
+- [Exemples](/Guide-des-bourses-UQAM/bourses_recherche/baccalaureat.html#stage-du-scad) // [Stage au Service de consultation en analyse de données de l'UQÀM](https://scad.uqam.ca/stages.html).
 
 :bulb: La bourse de recherche de premier cycle du CRSNG, avec la contribution d'un-e professeur-e et le supplément du FRQNT, rapporte environ 8000$/été.
 
@@ -35,14 +35,14 @@ On a regroupé les dossiers d'application de certain-es étudiant-es pour que tu
 
 #### Maîtrise
 
- - [Exemples](/bourses_recherche/cycles_sups.html#bourse-de-maîtrise-en-recherche-crsng) // [Bourse de maîtrise en recherche (CRSNG)](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_fra.asp).
- - Exemples // [Bourse de maîtrise en recherche (FRQNT)](http://www.frqnt.gouv.qc.ca/fr/bourses-et-subventions/concours-anterieurs/bourse/bourses-de-2supesup-et-3supesup-cycles-9hnncxo71406124185503).
+ - [Exemples](/Guide-des-bourses-UQAM/bourses_recherche/cycles_sups.html#bourse-de-maîtrise-en-recherche-crsng) // [Bourse de maîtrise en recherche (CRSNG)](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/CGSM-BESCM_fra.asp).
+ - [Exemples](/Guide-des-bourses-UQAM/bourses_recherche/cycles_sups.html#bourse-de-maîtrise-en-recherche-frqnt) // [Bourse de maîtrise en recherche (FRQNT)](http://www.frqnt.gouv.qc.ca/fr/bourses-et-subventions/concours-anterieurs/bourse/bourses-de-2supesup-et-3supesup-cycles-9hnncxo71406124185503).
 
 :bulb: La bourse de maîtrise du CRSNG peut être combinée à la bourse du FRQNT pour obtenir du financement pendant 2 ans (> 15 000$ / ans).
 
 #### Doctorat
 
- - Exemples // [Bourse doctorale ES D / BESC D (CRSNG)](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_fra.asp).
- - Exemples // [Bourse doctorale du FRQNT]((http://www.frqnt.gouv.qc.ca/fr/bourses-et-subventions/concours-anterieurs/bourse/bourses-de-2supesup-et-3supesup-cycles-9hnncxo71406124185503)).
+ - [Exemples](/Guide-des-bourses-UQAM/bourses_recherche/cycles_sups.html#bourse-doctorale-en-recherche-crsng) // [Bourse doctorale ES D / BESC D (CRSNG)](http://www.nserc-crsng.gc.ca/Students-Etudiants/PG-CS/BellandPostgrad-BelletSuperieures_fra.asp).
+ - [Exemples](/Guide-des-bourses-UQAM/bourses_recherche/cycles_sups.html#bourse-doctorale-en-recherche-frqnt) // [Bourse doctorale du FRQNT]((http://www.frqnt.gouv.qc.ca/fr/bourses-et-subventions/concours-anterieurs/bourse/bourses-de-2supesup-et-3supesup-cycles-9hnncxo71406124185503)).
 
 :bulb: La bourse doctorate du CRSNG peut être combinée à la bourse du FRQNT pour obtenir du financement pendant 4-5 ans (> 21 000$ / ans).
