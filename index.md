@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Home
+title: Accueil
 nav_order: 1
 description: ""
 permalink: /

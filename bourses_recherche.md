@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Home
+title: Bourses de recherche
 nav_order: 3
 description: ""
-permalink: /
 ---
 
 # Bourses de recherche

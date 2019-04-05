@@ -1,9 +1,8 @@
 ---
 layout: default
-title: Home
+title: Où débuter?
 nav_order: 2
 description: ""
-permalink: /
 ---
 
 # Où débuter?
