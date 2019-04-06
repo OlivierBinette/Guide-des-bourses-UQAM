@@ -3,10 +3,9 @@ layout: default
 title: Aux cycles supérieurs
 parent: Bourses de recherche
 nav_order: 2
-
 ---
 
-# Dossiers d'application - cycles supérieurs
+# Exemples de dossiers d'application - cycles supérieurs
 
 ## Bourse doctorale en recherche (CRSNG)
 

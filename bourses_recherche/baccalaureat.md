@@ -5,7 +5,7 @@ parent: Bourses de recherche
 nav_order: 1
 ---
 
-# Dossiers d'application - baccalauréat
+# Exemples de dossiers d'application - baccalauréat
 
 ## Bourse de recherche de premier cycle du CRSNG
 
