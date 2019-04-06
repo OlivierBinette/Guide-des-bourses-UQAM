@@ -19,9 +19,9 @@ Tu viens de commencer ton parcours scientifique à l'UQAM, tu te demandes quelle
 
 ## :rocket: Appliquer sur les bourses de recherche et aux cycles supérieurs
 
-Jette un coup d'oeil à nos [exemples d'applications]() aux bourses de recherche du CRSNG et FRQNT, ayant rapporté des **centaines de milliers de dollars** en bourses à des étudiant-es du département au cours des denières années.
+Jette un coup d'oeil à nos [exemples d'applications](/Guide-des-bourses-UQAM/bourses_recherche) aux bourses de recherche du CRSNG et FRQNT, ayant rapporté des **centaines de milliers de dollars** en bourses à des étudiant-es du département au cours des denières années.
 
-On a aussi des admis au département de statistique de l'Université de Toronto, à l'Université McGill, à Stanford University, Duke University, etc. Va voir nos [curriculum vitaes et lettres de motivation]().
+On a aussi des admis au département de statistique de l'Université de Toronto, à l'Université McGill, à Stanford University, Duke University, etc. Va voir nos [curriculum vitaes et lettres de motivation](/Guide-des-bourses-UQAM/appliquer-doctorat/exemples.html).
 
 Tu souhaites aller étudier aux États-Unis? Il te faudra [tout savoir sur les examens GRE et TOEFL]().
 
