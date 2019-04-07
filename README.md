@@ -8,5 +8,5 @@
 
 ## :wave: Contribuer
 
-Soumets tes idées sur le [wiki du Guide](https://github.com/OlivierBinette/Guide-des-bourses-UQAM/wiki/Accueil) ou demande à être ajouté comme collaborateur pour pouvoir modifier le directement le site.
+Soumet tes idées sur le [wiki du Guide](https://github.com/OlivierBinette/Guide-des-bourses-UQAM/wiki/Accueil) ou demande à être ajouté comme collaborateur pour pouvoir modifier le directement le site.
 
