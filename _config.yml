@@ -7,8 +7,8 @@ search_enabled: true
 
 # Aux links for the upper right navigation
 aux_links:
-  "Olivier Binette":
-    - "http://olivierbinette.ca"
+  "Contribuer au Guide":
+    - "https://github.com/OlivierBinette/Guide-des-bourses-UQAM"
 
 plugins:
   - jemoji
