@@ -5,8 +5,6 @@ parent: Bourses de recherche
 nav_order: 2
 ---
 
-:arrow_left: [Retourner au répertoire](/Guide-des-bourses-UQAM/bourses_recherche)
-
 # Exemples de dossiers d'application - cycles supérieurs
 
 ## Bourse doctorale en recherche (CRSNG)

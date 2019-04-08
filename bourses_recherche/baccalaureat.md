@@ -5,9 +5,6 @@ parent: Bourses de recherche
 nav_order: 1
 ---
 
-:arrow_left: [Retourner au répertoire](/Guide-des-bourses-UQAM/bourses_recherche)
-
-
 # Exemples de dossiers d'application - baccalauréat
 
 ## Bourse de recherche de premier cycle du CRSNG
