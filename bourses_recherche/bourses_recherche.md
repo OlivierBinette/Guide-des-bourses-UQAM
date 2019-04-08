@@ -18,7 +18,7 @@ Pour un projet de recherche d'été ou aux cycles supérieurs, tu peux être fin
 - [Fonds de recherche québecois - nature et technologies](http://www.frqnt.gouv.qc.ca/bourses-et-subventions);
 - [Conseil de recherches en sciences naturelles et génies](http://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_fra.asp).
 
-Ce ne sont pas les opportunités qui manquent, et tu devrais aussi chercher pour des expériences de formation en dehors des universités montréalaises (par exemple au [Fields Institute](http://www.fields.utoronto.ca/activities/19-20/2019-fusrp), dans un [centre de recherche collégial](http://reseautranstech.qc.ca/cctt-par-nom/), en entreprise, etc). Trouve ce qui te passionne, demande conseil et puis applique!
+Ce ne sont pas les opportunités qui manquent, et tu devrais aussi chercher pour des expériences de formation en dehors des universités montréalaises (par exemple au [Fields Institute](http://www.fields.utoronto.ca/activities/19-20/2019-fusrp), au [Pacific Institute for the Mathematical Sciences](https://www.pims.math.ca/scientific/summer-schools), dans un [centre de recherche collégial](http://reseautranstech.qc.ca/cctt-par-nom/), en entreprise, etc). Trouve ce qui te passionne, demande conseil et puis applique!
 
 ## :mag: Exemple de dossiers d'application
 
@@ -26,6 +26,7 @@ On a regroupé les dossiers d'application de certain-es étudiant-es pour que tu
 
 ### Au baccalauréat
 
+- [Exemples](/Guide-des-bourses-UQAM/bourses_recherche/baccalaureat.html#pims-diversity-in-mathematics-summer-school) // [PIMS Diversity in Mathematics Summer School](http://www.pims.math.ca/2019Diversityinmath)
 - [Exemples](/Guide-des-bourses-UQAM/bourses_recherche/baccalaureat.html#bourse-de-recherche-de-premier-cycle-du-crsng) // [Bourse de recherche de premier cycle du CRSNG](http://www.nserc-crsng.gc.ca/Students-Etudiants/UG-PC/USRA-BRPC_fra.asp) et [supplément du FRQNT](http://www.frqnt.gouv.qc.ca/fr/bourses-et-subventions/concours-anterieurs/bourse/supplements-aux-bourses-de-1er-cycle-en-milieu-academique-du-crsng-bpca--kt4i0gxl1453739737341) à cette bourse.
 - [Exemples](/Guide-des-bourses-UQAM/bourses_recherche/baccalaureat.html#stage-du-scad) // [Stage au Service de consultation en analyse de données de l'UQÀM](https://scad.uqam.ca/stages.html).
 
