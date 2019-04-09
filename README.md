@@ -2,7 +2,9 @@
 *Projet de développement d'un guide de soutien au développement professionnel pour les étudiant-es en statistique et mathématiques à l'UQAM.*
 
 <p align="center">
-  <img src="img/screenshot.png">
+  <a href="http://olivierbinette.ca/Guide-des-bourses-UQAM/" >
+    <img href="http://olivierbinette.ca/Guide-des-bourses-UQAM/" src="img/screenshot.png">
+  </a>
 </p>
 
 ## :dart: Objectifs
