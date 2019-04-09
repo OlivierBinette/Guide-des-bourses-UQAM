@@ -1,7 +1,9 @@
 # :notebook: [Le Guide des bourses](http://olivierbinette.ca/Guide-des-bourses-UQAM/)
 *Projet de développement d'un guide de soutien au développement professionnel pour les étudiant-es en statistique et mathématiques à l'UQAM.*
 
-![Capture d'écran](/Guide-des-bourses-UQAM/images/screenshot.png)
+<p align="center">
+  <img src="img/screenshot.png">
+</p>
 
 ## :dart: Objectifs
   - Répertorier les ressources de soutien et des exemples de demandes de bourses.
