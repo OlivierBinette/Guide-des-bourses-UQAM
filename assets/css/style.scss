@@ -3,6 +3,11 @@
 
 @import "{{ site.theme }}";
 
+table {
+  display: block;
+  overflow-x: auto;
+}
+
 a {
   color: #126BBB;
 }
@@ -22,5 +27,3 @@ footer.site-footer {
 div.side-bar {
   background-color: #126BBB;
 }
-
-
