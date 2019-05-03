@@ -4,8 +4,8 @@
 @import "{{ site.theme }}";
 
 table {
-  display: block;
-  overflow-x: auto;
+  display: block !important;
+  overflow-x: auto !important;
 }
 
 a {
