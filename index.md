@@ -8,9 +8,11 @@ permalink: /
 
 # Le Guide des bourses
 
-\[En construction.\]
+[En construction.]
 
-Tu viens de commencer ton parcours scientifique à l'UQAM, tu te demandes quelle est la prochaine étape ou tu appliques sur des bourses/écoles? Ce guide est pour toi.
+Tu viens de commencer ton parcours scientifique à l'UQAM, tu te demandes quelle est la prochaine étape ou tu appliques sur des bourses/écoles? Ce guide de développement professionnel est pour toi. 
+
+On répertorie ici quelques ressources qui pourraient t'aider et on te donne des exemples d'applications à des bourses et à des stages. 
 
 ## Où débuter?
  1. **Repère-toi.** Identifie les [ressources d'aide]() à ta disposition et [écris à tes professeurs]() pour demander conseil.
