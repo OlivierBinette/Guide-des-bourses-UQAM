@@ -9,6 +9,7 @@ nav_order: 1
 
 | Université | Lettre de motivation | CV | Domaine | Résultat |
 |:----------:|:----------:|:----------:|:----------:|:----------:|
+| Ghent (Belgique) | [Alexis](../documents/Alexis Langlois-Remillard/applications doctorat/motivation_letter.pdf) | [Alexis](../documents/Alexis Langlois-Remillard/applications doctorat/cv.pdf) | math phys | :+1: |
 | Toronto | [Anthony](../documents/Anthony/Toronto PhD Application/uToronto_SOP_final.pdf) | [Anthony](../documents/Anthony/Toronto PhD Application/cv_academic_en.pdf) | stat | :+1: |
 | Stanford | [Olivier](../documents/Olivier/Applications doctorat/SOP - Stanford.pdf) | [Olivier](../documents/Olivier/Applications doctorat/CV_TORONTO.pdf) | stat | :+1: |
 | Toronto | [Olivier](../documents/Olivier/Applications doctorat/SOP - Toronto.pdf) | - | stat | :+1: |

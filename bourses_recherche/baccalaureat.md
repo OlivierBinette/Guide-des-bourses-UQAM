@@ -13,6 +13,7 @@ nav_order: 1
 |:----------:|:----------:|:----------:|
 | [Anthony](../documents/Anthony/BRPC CRSNG - Ete2017/lettre motivation.pdf) | stat | :+1: |
 | [Gabrielle](../documents/Gabrielle/lettre_BRPC_2019.pdf) | stat | :+1: |
+| [Olivier](../documents/Olivier/BRPC CRSNG ete 2016/lettre_motivation.pdf) | math appli | :+1: |
 
 ## PIMS Diversity in Mathematics Summer School
 
