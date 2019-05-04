@@ -9,11 +9,11 @@ nav_order: 1
 
 ## Bourse de recherche de premier cycle du CRSNG
 
-| Lettre de motivation | Domaine | Résultat |
+| Domaine | Lettre de motivation | Résultat |
 |:----------:|:----------:|:----------:|
-| [Anthony](../documents/Anthony/BRPC CRSNG - Ete2017/lettre motivation.pdf) | stat | :+1: |
-| [Gabrielle](../documents/Gabrielle/lettre_BRPC_2019.pdf) | stat | :+1: |
-| [Olivier](../documents/Olivier/BRPC CRSNG ete 2016/lettre_motivation.pdf) | math appli | :+1: |
+| stat | [Anthony](../documents/Anthony/BRPC CRSNG - Ete2017/lettre motivation.pdf) | :+1: |
+| stat | [Gabrielle](../documents/Gabrielle/lettre_BRPC_2019.pdf) | :+1: |
+| math appli | [Olivier](../documents/Olivier/BRPC CRSNG ete 2016/lettre_motivation.pdf) | :+1: |
 
 ## PIMS Diversity in Mathematics Summer School
 
