@@ -11,8 +11,8 @@ nav_order: 1
 
 | Lettre de motivation | Domaine | Résultat |
 |:----------:|:----------:|:----------:|
-| [Anthony](../documents/Anthony/BRPC CRSNG - Ete2017/lettre motivation.pdf) | stat | :v: |
-| [Gabrielle](../documents/Gabrielle/lettre_BRPC_2019.pdf) | stat | :v: |
+| [Anthony](../documents/Anthony/BRPC CRSNG - Ete2017/lettre motivation.pdf) | stat | :+1: |
+| [Gabrielle](../documents/Gabrielle/lettre_BRPC_2019.pdf) | stat | :+1: |
 
 ## PIMS Diversity in Mathematics Summer School
 
