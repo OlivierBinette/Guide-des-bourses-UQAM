@@ -18,7 +18,7 @@ Tu viens de commencer ton parcours scientifique à l'UQAM, tu te demandes quelle
  3. **Lève les voiles.** Travaille à [bonifier ton CV](/Guide-des-bourses-UQAM/debuter/CV), puis applique et applique *partout*. Tu as droit à l'erreur, alors profites-en!
 
 ## :rocket: Appliquer sur les bourses de recherche et aux cycles supérieurs
- 
+
 Jette un coup d'oeil à nos [exemples d'applications](/Guide-des-bourses-UQAM/bourses_recherche) aux bourses de recherche du CRSNG et FRQNT, ayant rapporté des **centaines de milliers de dollars** en bourses à des étudiant-es du département au cours des denières années.
 
 On a aussi des admis au département de statistique de l'Université de Toronto, à l'Université McGill, à Stanford University, Duke University, etc. Va voir nos [curriculum vitaes et lettres de motivation](/Guide-des-bourses-UQAM/appliquer_doctorat/exemples.html).
@@ -38,4 +38,4 @@ Tu peux nous écrire si tu as des questions ou besoin de conseils. On fera de no
 - **Anthony Coache** (bac et maîtrise en stat à l'UQÀM, supervisé par François Watier; maintenant étudiant au doctorat en statistique à l'université de Toronto). Tu peux lui écrire à anthony.coache [a commercial] gmail dot com.
 - **Olivier Binette** (bac en math et maîtrise à l'UQÀM, supervisé par Simon Guillotte; maintenant étudiant au doctorat en statistique à Duke University).  Tu peux lui écrire à olivier.binette [a commercial] duke dot edu pour organiser un appel skype.
 
-La plupart des [directeur-es de programme](https://math.uqam.ca/le-departement/direction/) sauront aussi t'orienter vers les bonnes ressources, et tu peux (essayer de) les contacter.
+La plupart des [directeur-es de programme](https://math.uqam.ca/le-departement/direction/) sauront aussi t'orienter vers les bonnes ressources, et tu peux (essayer de) les contacter. 
