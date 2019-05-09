@@ -13,7 +13,7 @@ permalink: /
 Tu viens de commencer ton parcours scientifique à l'UQAM, tu te demandes quelle est la prochaine étape ou tu appliques sur des bourses/écoles? Ce guide de développement professionnel est pour toi. On y répertorie des ressources qui pourraient t'aider: des liens vers des sources de financement, des exemples de dossiers d'applications à des stages et des bourses (CVs, lettres de motivation, projets, etc) et différents conseils.
 
 ## Où débuter?
- 1. **Repère-toi.** Identifie les [ressources d'aide]() à ta disposition et [écris à tes professeurs]() pour demander conseil.
+ 1. **Repère-toi.** Identifie les [ressources d'aide](/Guide-des-bourses-UQAM/ressources_soutien) à ta disposition et [écris à tes professeurs]() pour demander conseil.
  2. **Choisis ton cap.** Trouve les [projets, les bourses et les opportunités de stages]() qui t'intéressent.
  3. **Lève les voiles.** Travaille à [bonifier ton CV](), puis [applique]() et [applique]() *partout*. Tu as droit à l'erreur, alors profites-en!
 
