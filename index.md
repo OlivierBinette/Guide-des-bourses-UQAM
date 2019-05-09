@@ -15,7 +15,7 @@ Tu viens de commencer ton parcours scientifique à l'UQAM, tu te demandes quelle
 ## Où débuter?
  1. **Repère-toi.** Identifie les [ressources d'aide](/Guide-des-bourses-UQAM/debuter/ressources_soutien) à ta disposition et [écris à tes professeurs]()*(en construction)* pour demander conseil.
  2. **Choisis ton cap.** Trouve les [projets, les bourses et les opportunités de stages](/Guide-des-bourses-UQAM/debuter/projets_bourses_stages) qui t'intéressent.
- 3. **Lève les voiles.** Travaille à [bonifier ton CV]()*(en construction)*, puis [applique]()*(en construction)* et [applique]()*(en construction)* *partout*. Tu as droit à l'erreur, alors profites-en!
+ 3. **Lève les voiles.** Travaille à [bonifier ton CV](/Guide-des-bourses-UQAM/debuter/CV), puis applique et applique *partout*. Tu as droit à l'erreur, alors profites-en!
 
 ## :rocket: Appliquer sur les bourses de recherche et aux cycles supérieurs
 

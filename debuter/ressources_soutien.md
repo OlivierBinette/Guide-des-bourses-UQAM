@@ -13,7 +13,7 @@ nav_order: 1
   - Soutien à l'apprentissage (documentation conseil, ateliers, consultations individuelles)
   - Soutien psychologique (tu as accès à des [consultations gratuites](https://vie-etudiante.uqam.ca/conseils-soutien/psycho/consultation-individuelle.html) et des [consultations à 30$](http://aseq.ca/rte/fr/wwwsanteetudiantecom_UQAM_Réseauxdeprofessionnels_Réseaudepsychologues) avec tes assurances étudiantes)
 
-## Orientation académique et professionnelle
+##Orientation académique et professionnelle
 
 - L'UQAM offre des [ateliers en employabilité](https://vie-etudiante.uqam.ca/emploi-orientation/nouvelles-ressources/34-emploi-et-orientation/nouvelles/282-ateliers-en-employabilite.html) (écriture d'un CV, entrevues, stratégies)
 - Au département, tu peux prendre rendez-vous avec **Serge Moreau** (1er cycle) ou aller voir **Isabella Couture** (cycles sups) pour discuter de ton cheminement et de tes options (voir la liste du personnel de soutien sur [cette page](https://math.uqam.ca/le-departement/personnel-de-soutien/)). Ils font un travail extraordinaire et sont disponible pour t'aider et répondre à tes questions. Ils t'orienteront vers d'autres ressources au besoin.
