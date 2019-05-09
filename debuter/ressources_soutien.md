@@ -16,7 +16,7 @@ nav_order: 1
 ## Orientation académique et professionnelle
 
 - L'UQAM offre des [ateliers en employabilité](https://vie-etudiante.uqam.ca/emploi-orientation/nouvelles-ressources/34-emploi-et-orientation/nouvelles/282-ateliers-en-employabilite.html) (écriture d'un CV, entrevues, stratégies)
-- Au département, tu peux prendre rendez-vous avec **Serge Moreau** (1er cycle) ou aller voir **Isabella Couture** (cycles sups) pour discuter de ton cheminement et de tes options (voir la liste du personnel de soutien sur [cette page](https://math.uqam.ca/le-departement/personnel-de-soutien/)). Ils font un travail extraordinaire et sont disponible pour t'aider et répondre à tes questions. Ils t'orienteront vers d'autres ressources au besoin.
+- Au département, tu peux prendre rendez-vous avec **Serge Moreau** (1er cycle) ou aller voir **Isabella Couture** (cycles sups) pour discuter de ton cheminement et de tes options (voir la liste du personnel de soutien sur [cette page](https://math.uqam.ca/le-departement/personnel-de-soutien/)). Ils font un travail extraordinaire et sont disponible pour t'aider et répondre à tes questions.
 
 ## Aide à la rédaction de demandes de bourses
 
