@@ -35,6 +35,7 @@ nav_order: 2
 | Domaine | Projet | Résultat |
 |:----------:|:----------:|:----------:|
 | stat | [Anthony](../documents/Anthony/Bourse Maitrise CRSNG/Projet maîtrise.pdf) | :+1: |
+| math | [Patricia](../documents/Patricia Sorya/CRSNG Maitrise/resume.pdf) | :+1: |
 
 ## Bourse de maîtrise en recherche (FRQNT)
 
