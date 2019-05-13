@@ -14,6 +14,7 @@ nav_order: 1
 | stat | [Anthony](../documents/Anthony/BRPC CRSNG - Ete2017/lettre motivation.pdf) | :+1: |
 | stat | [Gabrielle](../documents/Gabrielle/lettre_BRPC_2019.pdf) | :+1: |
 | math appli | [Olivier](../documents/Olivier/BRPC CRSNG ete 2016/lettre_motivation.pdf) | :+1: |
+| stat | [Jesse](../documents/Jesse Gervais/BRPC 2019/lettre.pdf) | :+1: |
 
 ## PIMS Diversity in Mathematics Summer School
 
@@ -24,6 +25,7 @@ nav_order: 1
 
 ## Stage du scad
 
-| Lettre de motivation |
-|:----------:|
-| [Anthony](../documents/Anthony/Stage SCAD - Ete2017/lettre motivation.pdf) |
+| Lettre de motivation | Résultat |
+|:----------:|:----------:|
+| [Anthony](../documents/Anthony/Stage SCAD - Ete2017/lettre motivation.pdf) | :+1: |
+| [Jesse](../documents/Jesse Gervais/Stage SCAD/lettre.pdf) | :+1: |
