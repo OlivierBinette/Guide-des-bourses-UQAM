@@ -14,7 +14,5 @@ Voici quelques idées pour t'aider à remplir ton CV:
   - Il y a le séminaire des cycles sups, régulièrement des séminaires d'été, le Sommet étudiant de la statistique à Montréal et bien d'autres.
 - Écris un blog ou anime un podcast en lien avec ton domaine d'étude.
 - Présente tes projets de programmation sur Github.
-- 
 
 ## Bénévolat
-
